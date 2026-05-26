@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authpalidate",
+        "uuid": 12639240,
+        "checksum": "pagr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
